@@ -1,5 +1,8 @@
+#/usr/bin/env python3
 import os
 import json
+import unicodedata
+
 
 from flask import jsonify
 
@@ -9,7 +12,7 @@ from osm_time.opening_hours import OpeningHours
 
 def get_cities():
     filenames = [f for f in os.listdir("./data") if os.path.isfile(os.path.join("./data", f))]
-    cities = [filename.split(".")[0] for filename in filenames]
+    cities = [unicodedata.normalize('NFC', filename.split(".")[0].decode('utf8')) for filename in filenames]
     return cities
 
 

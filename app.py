@@ -1,6 +1,9 @@
 #/usr/bin/env python3
 """ The main app. It contains all the routes """
 import json
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 from flask import Flask, request, jsonify
 
