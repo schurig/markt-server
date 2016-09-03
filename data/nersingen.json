@@ -3,28 +3,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    9.99875,
-                    48.39394
+                    10.12289,
+                    48.42741
                 ],
                 "type": "Point"
             },
             "properties": {
-                "title": "Neu-Ulmer Wochenmarkt",
-                "location": "Petrusplatz Neu-Ulm",
-                "opening_hours": "We 07:00-13:00;Sa 07:00-13:00"
+                "title": "Nersinger Wochenmarkt",
+                "location": "Rathausplatz Nersingen",
+                "opening_hours": "Fr 13:00-17:00"
             },
             "type": "Feature"
         }
     ],
     "metadata": {
         "data_source": {
-            "title": "Stadt Neu-Ulm",
-            "url": "http://nu.neu-ulm.de/de/neu-ulm-erleben/veranstaltungen/feste-maerkte/wochenmarkt/"
+            "title": "Gemeinde Nersingen",
+            "url": "http://www.nersingen.de/buerger_information/maerkte/_Nersinger-Wochenmarkt_84.html"
         },
         "map_initialization": {
             "coordinates": [
-                9.99875,
-                48.39394
+                10.12289,
+                48.42741
             ],
             "zoom_level": 12
         }

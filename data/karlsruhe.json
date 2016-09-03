@@ -31,7 +31,7 @@
             },
             "properties": {
                 "location": "Vor der Heilig-Geist-Kirche",
-                "opening_hours": "Tu, Fr 07:30-14:00",
+                "opening_hours": "Tu,Fr 07:30-14:00",
                 "title": "Daxlanden"
             },
             "type": "Feature"
@@ -61,7 +61,7 @@
             },
             "properties": {
                 "location": null,
-                "opening_hours": "Mo, We, Fr 07:30-14:00",
+                "opening_hours": "Mo,We,Fr 07:30-14:00",
                 "title": "Gottesauer Platz"
             },
             "type": "Feature"
@@ -91,7 +91,7 @@
             },
             "properties": {
                 "location": null,
-                "opening_hours": "Tu, Th, Sa 07:30-14:00",
+                "opening_hours": "Tu,Th,Sa 07:30-14:00",
                 "title": "Gutenbergplatz"
             },
             "type": "Feature"
@@ -106,7 +106,7 @@
             },
             "properties": {
                 "location": "Auf dem Elsässer Platz",
-                "opening_hours": "We, Sa 07:30-14:00; Fr 07:30-16:00",
+                "opening_hours": "We,Sa 07:30-14:00; Fr 07:30-16:00",
                 "title": "Knielingen"
             },
             "type": "Feature"
@@ -166,7 +166,7 @@
             },
             "properties": {
                 "location": "Auf dem Walther-Rathenau-Platz",
-                "opening_hours": "Tu, Sa 07:30-14:00",
+                "opening_hours": "Tu,Sa 07:30-14:00",
                 "title": "Nordweststadt"
             },
             "type": "Feature"
@@ -196,7 +196,7 @@
             },
             "properties": {
                 "location": "Vor der Christ-König-Kirche",
-                "opening_hours": "We, Sa 07:30-14:00",
+                "opening_hours": "We,Sa 07:30-14:00",
                 "title": "Rüppurr"
             },
             "type": "Feature"
@@ -211,7 +211,7 @@
             },
             "properties": {
                 "location": null,
-                "opening_hours": "Mo, We, Fr 07:30-14:00",
+                "opening_hours": "Mo,We,Fr 07:30-14:00",
                 "title": "Stephanplatz"
             },
             "type": "Feature"
@@ -241,7 +241,7 @@
             },
             "properties": {
                 "location": null,
-                "opening_hours": "Tu, Fr, Sa 07:30-14:00",
+                "opening_hours": "Tu,Fr,Sa 07:30-14:00",
                 "title": "Werderplatz"
             },
             "type": "Feature"
@@ -249,7 +249,7 @@
     ],
     "metadata": {
         "data_source": {
-            "title": "Daten von der Stadt Karlsruhe",
+            "title": "Stadt Karlsruhe",
             "url": "http://www.karlsruhe.de/b3/maerkte/wochenmarkte.de"
         },
         "map_initialization": {
