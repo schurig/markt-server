@@ -17,9 +17,9 @@ class OpeningHours(object):
         if self.value == "24/7":
             self.is_always_open = True
             return    # can't parse this value atm
-        
+
         try:
-            self.opening_hours = parse_string(self.value)
+            self.opening_hours = parse_string(self.value.replace(", ", ","))
         except Exception as e:
             raise ParseException(value, e)
 
